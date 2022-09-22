@@ -5,3 +5,6 @@
 ![Java](https://img.shields.io/badge/BackEnd-Java-orange)
 ![Spring.io](https://img.shields.io/badge/BackEnd-Spring.io-green)
 ![AWS](https://img.shields.io/badge/Hosting-AWS-yellow)
+
+
+<img width="700" src="https://cdn.gaetandev.fr/foxfood/files/FoxFood-Banner.png" alt="Fox Food banner" />
